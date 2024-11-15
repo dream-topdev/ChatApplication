@@ -1,0 +1,35 @@
+## .NET Core specific
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+## SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+## VS Code directory
+.vscode/
+
+## Visual Studio files
+.vs/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+## Rider
+.idea/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Logs
+logs/
+*.log 
